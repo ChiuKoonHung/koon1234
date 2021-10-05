@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/koon1234/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/koon1234/static/js/main.76a6796a.chunk.js",
+    "main.js.map": "/koon1234/static/js/main.76a6796a.chunk.js.map",
+    "runtime-main.js": "/koon1234/static/js/runtime-main.13918f9f.js",
+    "runtime-main.js.map": "/koon1234/static/js/runtime-main.13918f9f.js.map",
+    "static/js/2.a802f542.chunk.js": "/koon1234/static/js/2.a802f542.chunk.js",
+    "static/js/2.a802f542.chunk.js.map": "/koon1234/static/js/2.a802f542.chunk.js.map",
+    "static/js/3.dfd9f1b8.chunk.js": "/koon1234/static/js/3.dfd9f1b8.chunk.js",
+    "static/js/3.dfd9f1b8.chunk.js.map": "/koon1234/static/js/3.dfd9f1b8.chunk.js.map",
+    "index.html": "/koon1234/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/koon1234/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a802f542.chunk.js.LICENSE.txt": "/koon1234/static/js/2.a802f542.chunk.js.LICENSE.txt",
+    "static/media/light-off.e0edf900.png": "/koon1234/static/media/light-off.e0edf900.png",
+    "static/media/light-on.5beb6bef.png": "/koon1234/static/media/light-on.5beb6bef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13918f9f.js",
+    "static/js/2.a802f542.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.76a6796a.chunk.js"
+  ]
+}
